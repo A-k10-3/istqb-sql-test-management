@@ -1,0 +1,1 @@
+# istqb-sql-test-management
